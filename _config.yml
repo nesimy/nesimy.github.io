@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Nesim Yigit
-tagline:             Developer
+tagline:             ...
 url:                 http://nesim.me
 paginate:            1
 baseurl:             ""
